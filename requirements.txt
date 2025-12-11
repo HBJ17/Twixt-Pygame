@@ -1,0 +1,6 @@
+====requirements====
+pygame
+os
+time
+random
+sys
